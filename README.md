@@ -10,6 +10,6 @@ You can also concat liyuqing@iie.ac.cn
 run.sh  
 ```
 ### Trained models
-We release the DMCA models [Here]()
+We release the DMCA models [Here](https://drive.google.com/file/d/1axNLnIciI5vT4yCP9F-9_aAIbYwb8F0u/view?usp=drive_link)
 
 ### Citation
