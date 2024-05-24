@@ -5,7 +5,7 @@ Code for **Dynamic Multi-Scale Context Aggregation for Conversational Aspect-Bas
 - PyTorch 1.11.0+cu113
 ### Run Step
 ```bash
-run.sh
+run lan_zh.sh
 ```
 ### Trained models
 We release the DMCA models [Here](https://drive.google.com/file/d/1axNLnIciI5vT4yCP9F-9_aAIbYwb8F0u/view?usp=drive_link)
